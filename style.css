@@ -16,10 +16,6 @@ a {
 }
 
 
-body {
- background-color: #333333;
-}
-
 
 .container {
     height: 100vh;
@@ -27,6 +23,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: linear-gradient(to bottom right, rgba(79,51,176,1), rgba(210, 53,163, 1));
 }
 
 .calculator {
